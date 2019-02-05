@@ -1,0 +1,31 @@
+
+body {
+    background: no-repeat;
+    background-image: url("../images/train.gif");
+    background-position-y: -30px;
+    background-position-x: 250px;
+}
+.card {
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.jumbotron {
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: transparent;
+    padding: 45px;
+    margin-right: 20px;
+    margin-bottom: 50px;   
+}
+
+.card-header { 
+    background-color: #457282;
+    color: white;
+}
+
+#addTrain {
+    background-color: #212f3c;
+    margin: 10px;
+}
